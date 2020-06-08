@@ -4,7 +4,7 @@ NPM : 1806191036
 Kelas : C
 
 
-ini buat ke url [URL](https://naurakhansa.github.io/os201/URLs)
+ini buat ke url [URL](https://naurakhansa.github.io/os201/URLs/)
 
 
 ## SIAPA 
