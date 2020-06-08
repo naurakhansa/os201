@@ -1,9 +1,19 @@
-## SIAPA 
+## PROFIL 
+Nama : Naura Khansa Priono 
+NPM : 1806191036 
+Kelas : C
+
+## APA - TENTANG PAGE INI 
 Web ini akan berisi informasi seputar mata kuliah seperti link yang akan berguna dalam memahami mata kuliah ini. 
 
-You can use the [editor on GitHub](https://github.com/naurakhansa/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MENGAPA - TUJUAN WEBSITE INI 
+Tujuan website ini memudhkan dalam pencarian link yang berguna dalam mata kuliah ini. 
+
+
+
+You can use the [editor on GitHub](https://github.com/naurakhansa/os201/edit/master/README.md) \
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
 
 ### Markdown
 
