@@ -2,7 +2,6 @@
 permalink: /URLs/
 ---
 
-#Link - link seputar mata kuliah Sistem Operasi 
 ## Materi OS201 UAS - Youtube Playlist
 - [Week 06](https://www.youtube.com/playlist?list=PLwaskZn3rUGvTfUHu3lhkYY4tOSy6amhz)
 - [Week 07](https://www.youtube.com/playlist?list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ)
