@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[URL](https://naurakhansa.github.io/os201/page2) and ![Image](src)
+[URL](https://naurakhansa.github.io/os201/url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
