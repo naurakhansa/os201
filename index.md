@@ -19,8 +19,6 @@ Resource dapat dilihat pada : [Link Materi OS](https://naurakhansa.github.io/os2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-
 [URL](https://naurakhansa.github.io/os201/url) and ![Image](src)
 
 
