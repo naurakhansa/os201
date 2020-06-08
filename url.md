@@ -15,5 +15,5 @@ permalink: /URLs/
 - Contoh Tutorial : [TUTORIAL FUSE](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/running.html)
 
 ### SOCKET 
-Socket tutorial : [SOCKET TUTORIAL] (https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
+Socket tutorial : [SOCKET TUTORIAL](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
 
