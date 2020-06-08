@@ -4,7 +4,7 @@ NPM : 1806191036
 Kelas : C
 
 
-ini buat ke url [URL](https://naurakhansa.github.io/os201/url)
+ini buat ke url [URL](https://naurakhansa.github.io/os201/URLs)
 
 
 ## SIAPA 
@@ -19,8 +19,6 @@ Tujuan website ini memudhkan dalam pencarian link yang berguna dalam mata kuliah
 
 
 
-You can use the [editor on GitHub](https://github.com/naurakhansa/os201/edit/master/README.md) \
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
 
 ### Markdown
 
@@ -46,10 +44,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naurakhansa/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
