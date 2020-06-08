@@ -12,7 +12,7 @@ Web ini akan berisi informasi seputar mata kuliah seperti link yang akan berguna
 ## MENGAPA - TUJUAN WEBSITE INI 
 Tujuan website ini memeprsatukan sumber belajar dan link yang bermanfaat dalam memahami mata kuliah ini. 
 
-Resource dapat dilihat pada : [Link Materi OS](https://naurakhansa.github.io/os201/URLs/)
+Resource dapat dilihat pada : [Link Materi OS](https://naurakhansa.github.io/os201/URLs)
 
 
 ### Markdown
