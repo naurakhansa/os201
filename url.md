@@ -1,3 +1,6 @@
+---
+permalink: /URLs/
+---
 
 #Link - link seputar mata kuliah Sistem Operasi 
 ## Materi OS201 UAS - Youtube Playlist
