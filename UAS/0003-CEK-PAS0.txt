@@ -1,28 +1,26 @@
-Script started on Mon 08 Jun 2020 02:05:53 PM WIB
-naura.khansa@badak:~/UAS$ cd ..
+Script done, file is 0003-CEK-PAS0.txt
+naura.khansa@badak:~$ cat 0003-CEK-PAS0.txt
+Script started on Mon 08 Jun 2020 02:28:32 PM WIB
 naura.khansa@badak:~$ ls -f
-kuiss.c          .profile        .bash_logout  mykey.asc      .ssh    0002-mytest.txt.asc  UAS           a.out        file.txt  quiz1os.c
-.bashrc          0000-mypub.txt  quizos        coba.txt       .gnupg  filedemo             quiz1.c       .            quiz.c
-0001-mytest.txt  quizz.c         w02-enkripsi  .bash_history  kuiss   enkripsi             timestampuas  filedemogit  ..
-naura.khansa@badak:~$ sha1sum 000* > SHA1SUM
-naura.khansa@badak:~$ cat SHA1SUM
-1ecbae33f454672e361a841598dc9046f434c96c  0000-mypub.txt
-1f0f5fec1fb3460bb7834ed4d2b781d6bdcbc877  0001-mytest.txt
-a5b91d745fbbf51094937f7ae9d9c5d006b397a7  0002-mytest.txt.asc
+kuiss.c          .profile        .bash_logout  mykey.asc      .ssh    0002-mytest.txt.asc  UAS           0003-CEK-PAS0.txt  filedemogit  ..
+.bashrc          0000-mypub.txt  quizos        coba.txt       .gnupg  filedemo             quiz1.c       a.out              file.txt     quiz1os.c
+0001-mytest.txt  quizz.c         w02-enkripsi  .bash_history  kuiss   enkripsi             timestampuas  .                  quiz.c
+naura.khansa@badak:~$ sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+naura.khansa@badak:~$ sha1sum -c SHA1SUM
+0000-mypub.txt: OK
+0001-mytest.txt: OK
+0002-mytest.txt.asc: OK
 naura.khansa@badak:~$ gpg2 -sb -a SHA1SUM
 
 You need a passphrase to unlock the secret key for
 user: "Naura Khansa Priono (OS201 C 1806191036 naurakhansa Naura Khansa Priono) <naurakhansa09@gmail.com>"
 4096-bit RSA key, ID 6A0D47CB, created 2020-05-30
 
-naura.khansa@badak:~$ ls -F
-0000-mypub.txt   0002-mytest.txt.asc  coba.txt   filedemo/     file.txt  kuiss.c    quiz1.c    quiz.c  quizz.c  SHA1SUM.asc   UAS/
-0001-mytest.txt  a.out*               enkripsi/  filedemogit/  kuiss*    mykey.asc  quiz1os.c  quizos  SHA1SUM  timestampuas  w02-enkripsi/
 naura.khansa@badak:~$ gpg2 --verify SHA1SUM.asc
 gpg: assuming signed data in 'SHA1SUM'
-gpg: Signature made Mon 08 Jun 2020 02:07:39 PM WIB using RSA key ID 6A0D47CB
+gpg: Signature made Mon 08 Jun 2020 02:29:57 PM WIB using RSA key ID 6A0D47CB
 gpg: Good signature from "Naura Khansa Priono (OS201 C 1806191036 naurakhansa Naura Khansa Priono) <naurakhansa09@gmail.com>" [ultimate]
 naura.khansa@badak:~$ exit
 exit
 
-Script done on Mon 08 Jun 2020 02:08:32 PM WIB
+Script done on Mon 08 Jun 2020 02:30:19 PM WIB
