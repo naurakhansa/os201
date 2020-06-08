@@ -2,8 +2,6 @@
 Nama : Naura Khansa Priono 
 NPM : 1806191036 
 Kelas : C
-Resource dapat dilihat pada : 
-[URL](https://naurakhansa.github.io/os201/URLs)
 
 ## SIAPA 
 Web ini adalah GitHub Page yang dibuat untuk pemenuhan UAS PAS 1. 
@@ -22,5 +20,4 @@ Resource dapat dilihat pada : [Link Materi OS](https://naurakhansa.github.io/os2
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 [URL](https://naurakhansa.github.io/os201/url) and ![Image](src)
-
 
