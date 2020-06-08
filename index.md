@@ -3,7 +3,7 @@ Nama : Naura Khansa Priono
 NPM : 1806191036 
 Kelas : C
 Resource dapat dilihat pada : 
-[URL](https://naurakhansa.github.io/os201/url)
+[URL](https://naurakhansa.github.io/os201/URLs)
 
 ## SIAPA 
 Web ini adalah GitHub Page yang dibuat untuk pemenuhan UAS PAS 1. 
