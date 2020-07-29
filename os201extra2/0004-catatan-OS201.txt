@@ -128,11 +128,17 @@ a. Tantangan
 b. Problem
 - MS Windows
     Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
-- Github
+- Github	
+    Pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push. 
+
 - Github page
+	Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke load atau salah pada code yang ditulis. 
+
 - Konsep GNUPG
 - sha1sum
 - SCELE
+    Karena banyak forum dan ruang diskusi di scele terkadang peserta kebingungan untuk mencari suatu informasi pada forum. 
+
 - WhatsApp
 - pribadi/os201
 - bersama/os201
@@ -145,6 +151,7 @@ b. Problem
 - GNUPG
 - SHA1SUM dan SHA1SUM.asc
 - Race Condition
+    Terkadang menimbulkan masalah, ada commitan teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
 - Persiapan UAS
 - UAS Tahap 1
 - UAS Tahap 2
