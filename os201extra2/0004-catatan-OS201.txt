@@ -44,7 +44,7 @@ c. Tahap 2
     
     Kekurangan :
     - Memahami soal lebih susah dibandingkan memahami langsung dengan melihat programnya, penjelasan yang dijelaskan di soal seharusnya dapat lebih jelas tanpa melihat ke program.
-    - Beberapa seperti “TIME[16]”, nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah terdapat salah satu peserta ujian yang menanyakan melalui forum di scele 
+    - Beberapa seperti TIME[16], nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah terdapat salah satu peserta ujian yang menanyakan melalui forum di scele 
 
 d. Tahap 3
     Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2. 
@@ -115,7 +115,7 @@ e. GnuPG
 f. SHA1SUM
 
 g. SHA1SUM.asc
-    Format “.asc” sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
+    Format .asc sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
 
 3. Bahas dari sudut pandang peserta OS201, berkas berikut ini:
     https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
@@ -132,11 +132,7 @@ b. Problem
     Pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push. 
 
 - Github page
-<<<<<<< HEAD
 	Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke load atau salah pada code yang ditulis. 
-=======
-	Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke “load” atau salah pada code yang ditulis. 
->>>>>>> fb921c42316833c3d49b497a433612774f127368
 
 - Konsep GNUPG
 - sha1sum
@@ -146,12 +142,13 @@ b. Problem
 - WhatsApp
 - pribadi/os201
 - bersama/os201
+    Terkadang mahasiswa mengalaami race condiiton ketika melakukan push, sehingga harus melakuakn pull berkali kali. 
 - Tempat bekerja di luar git
 - Youtube
     Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020. 
 - Email
 - Scripting
-- Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
+    Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
 - GNUPG
 - SHA1SUM dan SHA1SUM.asc
 - Race Condition
@@ -162,4 +159,5 @@ b. Problem
 - UAS Tahap 3
 - UAS Tahap 4
 - UAS Tahap 5
+
 
