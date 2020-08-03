@@ -48,14 +48,43 @@ c. Tahap 2
 
 d. Tahap 3
     Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2. 
-    Kendala: 
-
-    Kelebihan: 
-    Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3.
+    Kendala:
+    - Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokan berdasarkan status 
+    - Sulit untuk koordinasi revisi saat diminta ke seluruh anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya.
+    - Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari
+    - Requirement penilaian tak dijabarkan
+    - kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga perlu lebih extra bertanya-tanya kelompok lain untuk memahami soal
+    - Banyak instruksi dan file yang bersifat ambigu sehingga menyulitkan peserta ujian
+    
+    Kelebihan:
+    - Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3.
+    - Mahasiswa dengan status TERM3 deadline waktunya panjang dan soalnya tidak beda jauh dengan tugas 2
+    - Tugas dikerjakan secara berkelompok
+    - Mendapatkan ilmu yang lebih dalam lagi mengenai semaphore 
     
     Kekurangan: 
+    - Perintah/revisi soal yang keluar saat berjalannya ujian dapat membingungkan
+    - Sama seperti tahap II terkadang ada bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya.
+    - Hanya satu file yang diedit sehingga sulit dalam pembagian tugas dengan anggota lain
+    - Batas kurang jelas antara keterangan soal yang kurang jelas dengan "kreativitas masing masing" sehingga menimbulkan perdebatan
 
-e. Tahap 4
+Tahap 4
+    Kendala : 
+        - Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini
+        - Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode
+        - File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa harus terus-menerus cross check dengan repository cbkadal
+    
+    Kelebihan : 
+        - Menjadi mengerti cara menggunakan synchronous semaphore
+        - Tersedianya penjelasan yang mendetail dari Pak RMS mengenai tugas ini
+        - Tugas relatif seru karena tantangan yang diterima
+    
+    Kekurangan : 
+        - Hanya ada satu file yang perlu diedit sehingga pembagian tugas sulit
+        - Requirement soal agak kurang dijabarkan. Di soal, dikatakan bisa menggunakan implementasi sendiri, tetapi jika implementasinya beda, nilai akan dikurangi.
+        - Waktu yang diberikan tidak sebanyak tugas-tugas sebelumnya.
+        - Lompatan materi yang lumayan besar dari tahap sebelumnya.
+
 
 f. Tahap 5
     Kendala :
@@ -113,6 +142,7 @@ e. GnuPG
     Dengan model enkripsi yang digunakan pada GPG, seseorang pasti mempunyai sepasang kunci keamanan yaitu Private Key dan Public Key. Dimana Private Key adalah kunci enkripsi yang hanya boleh diakses oleh pemilik kunci, sedangkan public key sebisa mungkin harus disebarkan seluas-luasnya.
 
 f. SHA1SUM
+    SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program ini sudah terpasang pada sebagian besar sistem operasi yang menggunakan Linux. Pada UAS OS genap 2020, file SHA1SUM digunakan sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. Melalui berkas tersebut, kita bisa mengetahui apakah file tersebut adalah file original atau bukan karena jika ada berkas yang diubah sedikitpun (termasuk waktu pembuatan), file tersebut akan menerima hash yang berbeda
 
 g. SHA1SUM.asc
     Format .asc sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
@@ -124,8 +154,10 @@ a. Tantangan
     Modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat ujian menjadi lebih sulit. Kesalahan prosedural yang dilakukan peserta menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedural tersebut dibandingkan mengerjakan soal yang diberikan. 
     Perangkat pendukung
     Rata-rata peserta hanya mengetahui fungsi serta cara memakai Git dan Github. Untuk perangkat pendukung scripting, GNUPG, dan sha1sum peserta tidak familiar sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah tersebut. 
+b. Perangkat pendukung
+    Rata-rata peserta hanya mengetahui fungsi serta cara memakai Git dan Github. Untuk perangkat pendukung scripting, GNUPG, dan sha1sum peserta tidak familiar sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah tersebut. 
 
-b. Problem
+c. Problem
 - MS Windows
     Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
 - Github	
