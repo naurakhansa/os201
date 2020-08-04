@@ -53,7 +53,7 @@ d. Tahap 3
     - Sulit untuk koordinasi revisi saat diminta ke seluruh anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya.
     - Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari
     - Requirement penilaian tak dijabarkan
-    - kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga perlu lebih extra bertanya-tanya kelompok lain untuk memahami soal
+    - Kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga perlu lebih extra bertanya-tanya kelompok lain untuk memahami soal
     - Banyak instruksi dan file yang bersifat ambigu sehingga menyulitkan peserta ujian
     
     Kelebihan:
@@ -168,28 +168,55 @@ c. Problem
 
 - Konsep GNUPG
 - sha1sum
+
 - SCELE
     Karena banyak forum dan ruang diskusi di scele terkadang peserta kebingungan untuk mencari suatu informasi pada forum. 
 
 - WhatsApp
+    Terkadang pengumuman di WhatsApp Group tertimbun oleh pesan lainnya sehingga sulit dibaca. 
+
 - pribadi/os201
+    Terkadang salah melakukan push file. 
+
 - bersama/os201
-    Terkadang mahasiswa mengalaami race condiiton ketika melakukan push, sehingga harus melakuakn pull berkali kali. 
+    Terkadang mahasiswa mengalaami race condiiton ketika melakukan push, sehingga harus melakukan pull berkali kali. 
+
 - Tempat bekerja di luar git
+    Tidak ada problem. 
+
 - Youtube
     Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020. 
+
 - Email
+    Tidak ada problem. 
+
 - Scripting
     Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
 - GNUPG
-- SHA1SUM dan SHA1SUM.asc
-- Race Condition
-    Terkadang menimbulkan masalah, ada commitan teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
-- Persiapan UAS
-- UAS Tahap 1
-- UAS Tahap 2
-- UAS Tahap 3
-- UAS Tahap 4
-- UAS Tahap 5
 
+- SHA1SUM dan SHA1SUM.asc
+
+- Race Condition
+    Terkadang menimbulkan masalah, ada hasil commit teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
+
+- Persiapan UAS
+    a. Kesulitan dalam memahami beberapa perintah yang diberikan
+    b. Mahasiswa lupa cara membuat key dan enkripsi
+
+- UAS Tahap 1
+    Kemampuan penggunaan terminal pada linux yang kurang menghambat proses pengerjaan
+
+- UAS Tahap 2
+    Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo
+    
+- UAS Tahap 3
+    Terdapat kesulitan saat melakukan revisi tahap-tahap sebelumnya karena kebingungan letak kesalahan nya dimana
+
+- UAS Tahap 4
+    a. Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini
+    b. Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode
+    c. File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa harus terus-menerus cross check dengan repository cbkadal
+
+- UAS Tahap 5
+    Terdapat kesulitan dalam memahami soal karena kurang mengerti konsep. 
 
