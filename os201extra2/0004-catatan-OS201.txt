@@ -167,7 +167,10 @@ c. Problem
 	Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke load atau salah pada code yang ditulis. 
 
 - Konsep GNUPG
+    Tidak ada problem. 
+    
 - sha1sum
+    Tidak ada problem. 
 
 - SCELE
     Karena banyak forum dan ruang diskusi di scele terkadang peserta kebingungan untuk mencari suatu informasi pada forum. 
@@ -192,9 +195,12 @@ c. Problem
 
 - Scripting
     Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
+
 - GNUPG
+    Tidak ada problem. 
 
 - SHA1SUM dan SHA1SUM.asc
+    Tidak ada problem. 
 
 - Race Condition
     Terkadang menimbulkan masalah, ada hasil commit teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
